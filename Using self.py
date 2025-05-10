@@ -8,6 +8,6 @@ class Student:
         print(f"Marks: {self.marks}")
 
 if __name__ == "__main__":
-    student1 = Student("Eraj naz", 20)
+    student1 = Student("Eraj naz", 80)
     
     student1.display() 
